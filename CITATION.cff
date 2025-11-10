@@ -4,10 +4,10 @@ authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
   - family-names: Sinnenberg
     given-names: Matthew J.
-    orcid: https://orcid.org/ # optional
-    website: https://github.com/msinnenberg # optional
-    affiliation: University at Albany (State University of New York) # optional
+    orcid: https://orcid.org/0009-0005-3659-9566 
+    website: https://github.com/msinnenberg 
+    affiliation: University at Albany (State University of New York) 
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
-title: "Cookbook Template"
-abstract: "A sample cookbook description."
+title: "Matt's Prototype Cookbook"
+abstract: "Just trying things out."
