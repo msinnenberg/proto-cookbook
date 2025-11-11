@@ -12,12 +12,6 @@ Atmospheric rivers are impactful to California. It is important to understand th
 
 [Matt Sinnenberg](https://github.com/msinnenberg)
 
-### Contributors
-
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
-</a>
-
 ## Structure
 
 This notebook will comprise of a section on 2 meter temperature and a section on total precipitation.
