@@ -1,0 +1,1 @@
+Comparing ERA5 grid-averaged data for California from 1940-1981 and 1983-2024, daily maximum 2 meter temperature exhibits more robust signals, while daily total precipitation has more nuanced results.

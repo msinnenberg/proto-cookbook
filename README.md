@@ -2,19 +2,15 @@
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
-[![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
-[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
-
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers ERA5 data in California.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Atmospheric rivers are impactful to California. It is important to understand the thermodynamic variables associated with extreme precipitation. How are they changing?
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+[Matt Sinnenberg](https://github.com/msinnenberg)
 
 ### Contributors
 
@@ -24,15 +20,15 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This notebook will comprise of a section on 2 meter temperature and a section on total precipitation.
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### 2 Meter Temperature
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+The content includes a statistical analysis of the grid-averaged daily maximum temperature for California.
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Total Precipitation
 
-(Add content for this section, e.g., "Example workflows include ... ")
+The content includes a statistical analysis of the grid-averaged daily total precipitation for California.
 
 ## Running the Notebooks
 

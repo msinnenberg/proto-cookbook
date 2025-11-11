@@ -1,6 +1,13 @@
 thumbnail: thumbnail.png
 tags:
   domains:
-    - sampledomain
+    - climatology
   packages:
-    - samplepackage
+    - xarray
+    - matplotlib.pyplot
+    - cartopy.crs
+    - cartopy.feature
+    - time
+    - pandas
+    - numpy
+    - scipy.stats
